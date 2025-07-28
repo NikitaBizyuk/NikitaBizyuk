@@ -7,7 +7,7 @@
 ## 🧠 About Me
 
 - 🔐 I’m deeply interested in topics like encryption, hashing, zero-knowledge proofs, and secure protocols.
-- 💥 I'm pursuing a career in **offensive security**, **penetration testing**, or **cryptographic engineering**.
+- 💥 I'm pursuing a career in **Software Development**, **offensive security**, **penetration testing**, or **cryptographic engineering**.
 - 🧪 I enjoy breaking, testing, and analyzing systems to understand how they can be exploited — and secured.
 - 🛠 I love building secure tools, implementing cryptographic algorithms from scratch, and working on CTF-style challenges.
 
