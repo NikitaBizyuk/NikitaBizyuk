@@ -1,23 +1,22 @@
 # 👋 Hi, I'm Nikita Bizyuk
 
-🎓 I'm a senior at the University of Washington, majoring in **Computer Science** with a strong passion for **Cybersecurity**, **Cryptology**, and **Software Development**.
+🎓 I'm a senior at the University of Washington, majoring in **Computer Science** with a strong passion for **Software Development**,  **Systems Design**, and **Cybersecurity**.
 
 ---
 
 ## 🧠 About Me
 
-- 🔐 I’m deeply interested in topics like encryption, hashing, zero-knowledge proofs, and secure protocols.
-- 💥 I'm pursuing a career in **Software Development**, **offensive security**, **penetration testing**, or **cryptographic engineering**.
-- 🧪 I enjoy breaking, testing, and analyzing systems to understand how they can be exploited — and secured.
-- 🛠 I love building secure tools, implementing cryptographic algorithms from scratch, and working on CTF-style challenges.
+I'm passionate about building projects from the ground up — from the frontend to the backend, the database, and the security layers in between. I enjoy the full spectrum of software engineering, systems design, and cybersecurity, and I'm constantly eager to expand my skills and tackle new challenges.
+
+Whether it's designing secure systems, implementing backend logic, crafting intuitive UIs, or analyzing how software can be hardened against threats, I love learning and building.
 
 ---
 
 ## 💼 Current Goals
 
-- 🧰 Build a portfolio of crypto/security-related tools and demonstrations.
+- 🧰 Build scalable projects from the ground up.
 - 🎓 Study for certifications like **CompTIA Security+**, **eJPT**, and **OSCP**.
-- 💬 Contribute to open-source security projects and collaborate with other cybersecurity enthusiasts.
+- 💬 Contribute to open-source software/security projects and collaborate with other like-minded enthusiasts.
 
 ---
 
