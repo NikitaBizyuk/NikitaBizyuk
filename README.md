@@ -23,7 +23,7 @@ Whether it's designing secure systems, implementing backend logic, crafting intu
 ## 🧪 Projects I'm Proud Of
 
 - 🎲 [**Game of Craps**](https://github.com/NikitaBizyuk/game_of_craps): A Java-based GUI implementation of the classic casino game, with clean design and logic separation.
-- 🔒 **Custom SHA-3 Hasher** (Coming soon): Manually implemented version of Keccak to understand sponge construction and padding.
+- 🔒 **Custom SHA-3 Hasher** : Manually implemented version of Keccak to understand sponge construction and padding.
 - 🗝️ [**Dungeon Adventure Game**](https://github.com/NikitaBizyuk/dungeon-adventure): A Python-based game built with Pygame, using OOP and MVC architecture. Players explore randomly generated dungeon rooms, battle monsters, and collect items like swords, health potions, and magical pillars. The game emphasizes traversal, combat logic, and state management across rooms.
 
 ---
