@@ -28,8 +28,7 @@ Whether it's designing secure systems, implementing backend logic, crafting intu
 
 ## 📚 What I'm Learning Now
 
-- 🔍 Deep dives into **hashing**, **key exchange protocols**, and **pseudorandom generators**
-- 🧱 How block ciphers and stream ciphers work at the bit-level
+- Network security, administration, routing tables, switching logic
 - 💻 Tools like **Wireshark**, **Burp Suite**, **Splunk**, and **nmap**
 
 ---
