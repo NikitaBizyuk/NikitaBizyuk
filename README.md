@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikita Bizyuk
 
-🎓 I'm a senior at the University of Washington, majoring in **Computer Science** with a strong passion for **Software Development**,  **Systems Design**, and **Cybersecurity**.
+🎓 I'm a graduate from the University of Washington with a major in **Computer Science and Systems** with a strong passion for **Software Development**,  **Systems Design**, and **Cybersecurity**.
 
 ---
 
@@ -8,15 +8,13 @@
 
 I'm passionate about building projects from the ground up — from the frontend to the backend, the database, and the security layers in between. I enjoy the full spectrum of software engineering, systems design, and cybersecurity, and I'm constantly eager to expand my skills and tackle new challenges.
 
-Whether it's designing secure systems, implementing backend logic, crafting intuitive UIs, or analyzing how software can be hardened against threats, I love learning and building.
+Whether it's designing secure systems, implementing backend logic, crafting intuitive UIs, or analyzing how software, systems, and networks can be hardened against threats, I love learning and building.
 
 ---
 
-## 💼 Current Goals
-
-- 🧰 Build scalable projects from the ground up.
-- 🎓 Study for certifications like **CompTIA Security+**, **eJPT**, and **OSCP**.
-- 💬 Contribute to open-source software/security projects and collaborate with other like-minded enthusiasts.
+- I have obtained both a bachelors degree in computer science and systems as well as acquired my CompTia security+ certification which now makes
+  me DoD 8570 IAT level 2 compliant
+- I am currently studying for Cisco's CCNA exam and am working on projects relating to the Soc analyst 1 role and network administration.
 
 ---
 
@@ -32,8 +30,7 @@ Whether it's designing secure systems, implementing backend logic, crafting intu
 
 - 🔍 Deep dives into **hashing**, **key exchange protocols**, and **pseudorandom generators**
 - 🧱 How block ciphers and stream ciphers work at the bit-level
-- 💻 Tools like **Wireshark**, **Burp Suite**, and **nmap**
-- 💬 Secure messaging, browser fingerprinting, and HTTPS internals
+- 💻 Tools like **Wireshark**, **Burp Suite**, **Splunk**, and **nmap**
 
 ---
 
@@ -45,4 +42,4 @@ Whether it's designing secure systems, implementing backend logic, crafting intu
 
 ---
 
-> ⚠️ I'm always open to internships, research opportunities, and collaborations in cybersecurity or cryptography. Feel free to reach out!
+> ⚠️ I'm always open to internships, research opportunities, and collaborations in cybersecurity and/or network and IT administration. Feel free to reach out!
